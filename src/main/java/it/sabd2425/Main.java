@@ -6,4 +6,8 @@ public class Main {
         System.out.println("Hello code smell!");
         System.out.println("Hello code smell!");
     }
+
+    public void foo() {
+
+    }
 }

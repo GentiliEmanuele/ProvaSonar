@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="693caa18-9068-4f3e-8012-d8dc4dd8881f" name="Changes" comment="Added workflows and modified pom.xml" />
+    <list default="true" id="693caa18-9068-4f3e-8012-d8dc4dd8881f" name="Changes" comment="Added a code smell" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1794512560800</updated>
-      <workItem from="1794512561878" duration="848000" />
+      <workItem from="1794512561878" duration="1444000" />
     </task>
     <task id="LOCAL-00001" summary="Added workflows and modified pom.xml">
       <option name="closed" value="true" />
@@ -75,7 +75,23 @@
       <option name="project" value="LOCAL" />
       <updated>1794513089955</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added a code smell">
+      <option name="closed" value="true" />
+      <created>1794513437895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794513437895</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added a code smell">
+      <option name="closed" value="true" />
+      <created>1794514005144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1794514005144</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added workflows and modified pom.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added workflows and modified pom.xml" />
+    <MESSAGE value="Added a code smell" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a code smell" />
   </component>
 </project>
